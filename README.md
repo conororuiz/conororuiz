@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Jhoana España
 
-<!--
-**conororuiz/conororuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Graphic designer and Web developer 🖌️👩‍💻
 
-Here are some ideas to get you started:
+### About Me 😊
+- 🔍 I'm interested in learning and evolving as a frontend programmer
+- 🌱 I’m currently learning React and Vue
+- 🤝 I’m looking to collaborate on some project about JavaScript and React
+- 🖼️ My Portfolio: [www.behance.net/JhoEspana](https://www.behance.net/JhoEspana)
+- 📬 If you need some information about me, write me: [www.jhoanaespana.com](https://www.jhoanaespana.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch:
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="30">]([URL_DE_TU_PERFIL_DE_LINKEDIN](https://www.linkedin.com/in/cristhian-onoro/))
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,py,django,flask,git,github,gitlab,linux)](https://skillicons.dev)
+
+### Github Stats:
+![Jhoana España's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhoanaEspana&show_icons=true&theme=default)
+
+### Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoanaEspana&layout=compact&theme=default)
+
