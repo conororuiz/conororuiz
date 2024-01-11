@@ -8,14 +8,12 @@
 - 🤝 I’m looking to collaborate on some project about Pyrhon and Django
 
 ### Get in touch:
-[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="30">]([URL_DE_TU_PERFIL_DE_LINKEDIN](https://www.linkedin.com/in/cristhian-onoro/))
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="30">](https://www.linkedin.com/in/cristhian-onoro/)
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,py,django,flask,git,github,gitlab,linux)](https://skillicons.dev)
 
 ### Github Stats:
-![cristhian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=conororuiz&show_icons=true&theme=dark&custom_width=200)
-
-### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conororuiz&layout=compact&theme=dark&custom_width=200)
+| <img src="https://github-readme-stats.vercel.app/api?username=conororuiz&show_icons=true&theme=dark" width="500"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conororuiz&layout=compact&theme=dark" width="380">|
+| --- | --- |
 
