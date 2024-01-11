@@ -1,7 +1,7 @@
-# Hi, I'm Cristhian Oñoro
-<img src="panda.png" >
-
-## Web developer 👩‍💻
+<h1 align="center">Hi, I'm Cristhian Oñoro<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"></br>RPA automation and Web developer</h1>
+<div align="center">
+<img src="panda.png" style="max-width: 100%;">
+</div>
 
 ### About Me 😊
 - 🔍 I'm interested in learning and evolving as a Backend programmer
