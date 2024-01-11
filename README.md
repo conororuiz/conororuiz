@@ -1,13 +1,11 @@
 # Hi, I'm Jhoana España
 
-## Graphic designer and Web developer 🖌️👩‍💻
+## Web developer 👩‍💻
 
 ### About Me 😊
-- 🔍 I'm interested in learning and evolving as a frontend programmer
-- 🌱 I’m currently learning React and Vue
-- 🤝 I’m looking to collaborate on some project about JavaScript and React
-- 🖼️ My Portfolio: [www.behance.net/JhoEspana](https://www.behance.net/JhoEspana)
-- 📬 If you need some information about me, write me: [www.jhoanaespana.com](https://www.jhoanaespana.com)
+- 🔍 I'm interested in learning and evolving as a Backend programmer
+- 🌱 I’m currently learning Kotlin
+- 🤝 I’m looking to collaborate on some project about Pyrhon and Django
 
 ### Get in touch:
 [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="30">]([URL_DE_TU_PERFIL_DE_LINKEDIN](https://www.linkedin.com/in/cristhian-onoro/))
