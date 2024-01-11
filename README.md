@@ -14,8 +14,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,py,django,flask,git,github,gitlab,linux)](https://skillicons.dev)
 
 ### Github Stats:
-![cristhian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=conororuiz&show_icons=true&theme=default)
+![cristhian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=conororuiz&show_icons=true&theme=dark&custom_width=200)
 
 ### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conororuiz&layout=compact&theme=default)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conororuiz&layout=compact&theme=dark&custom_width=200)
 
