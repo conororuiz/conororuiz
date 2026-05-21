@@ -15,6 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,py,django,flask,git,github,gitlab,linux,kotlin,docker)](https://skillicons.dev)
 
 ### Github Stats:
-| <img src="https://github-readme-stats.vercel.app/api?username=conororuiz&show_icons=true&theme=dark" width="500"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conororuiz&layout=compact&theme=dark" width="380">|
+| <img src="https://streak-stats.demolab.com?user=conororuiz&theme=dark" width="500"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conororuiz&layout=compact&theme=dark" width="380">|
 | --- | --- |
 
